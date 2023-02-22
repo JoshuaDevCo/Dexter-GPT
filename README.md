@@ -10,7 +10,7 @@ each of the folder individually by cd-ing into them, then do npm install.
 So, enjoy the commit & share your feedbacks, also if you wanna contribute make sure to build up in the pull request!
 
 ## How to setup project locally
-* Clone the app using ``` git clone https://github.com/VirajMadhu/OpenAIChatBot.git```
+* Clone the app using ``` git clone https://github.com/jaygen-nexus/Dexter-GPT.git```
 
 ## Running Client Side
 * Redirect into project folder ```cd /<your-project-folder>/client```
